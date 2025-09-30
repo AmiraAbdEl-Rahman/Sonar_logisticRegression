@@ -14,7 +14,7 @@ License
 Installation
 To run this project, ensure you have Python installed along with the required libraries. Follow these steps:
 
-Clone the repository:git clone https://github.com/your-username/your-repo-name.git
+Clone the repository
 
 
 Navigate to the project directory:cd your-repo-name
